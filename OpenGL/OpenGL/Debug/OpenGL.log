@@ -1,0 +1,105 @@
+﻿  Aktor.cpp
+  Kwadryka.cpp
+d:\prg\opengl\opengl\kwadryka.cpp(33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\prg\opengl\opengl\kwadryka.cpp(34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  MacierzGL.cpp
+  OknoGL.cpp
+d:\prg\opengl\opengl\oknogl.h(81): error C2612: trailing '(' illegal in base/member initializer list
+d:\prg\opengl\opengl\oknogl.cpp(281): warning C4566: character represented by universal-character-name '\u0142' cannot be represented in the current code page (1251)
+d:\prg\opengl\opengl\oknogl.cpp(281): warning C4566: character represented by universal-character-name '\u0119' cannot be represented in the current code page (1251)
+d:\prg\opengl\opengl\oknogl.cpp(281): warning C4566: character represented by universal-character-name '\u0107' cannot be represented in the current code page (1251)
+d:\prg\opengl\opengl\oknogl.cpp(281): warning C4566: character represented by universal-character-name '\u00F3' cannot be represented in the current code page (1251)
+d:\prg\opengl\opengl\oknogl.cpp(281): warning C4566: character represented by universal-character-name '\u0105' cannot be represented in the current code page (1251)
+d:\prg\opengl\opengl\oknogl.cpp(286): warning C4566: character represented by universal-character-name '\u0142' cannot be represented in the current code page (1251)
+d:\prg\opengl\opengl\oknogl.cpp(286): warning C4566: character represented by universal-character-name '\u0105' cannot be represented in the current code page (1251)
+d:\prg\opengl\opengl\oknogl.cpp(398): warning C4566: character represented by universal-character-name '\u015A' cannot be represented in the current code page (1251)
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\stdexcept(9): warning C4079: unexpected token 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\stdexcept(9): warning C4081: expected 'newline'; found ')'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\stdexcept(10): warning C4081: expected 'constant'; found 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\stdexcept(11): warning C4081: expected ')'; found 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\stdexcept(271): warning C4161: #pragma pack(pop...): more pops than pushes
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\locale.h(14): warning C4079: unexpected token 'string'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\locale.h(14): warning C4081: expected 'newline'; found ')'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\locale.h(177): warning C4161: #pragma pack(pop...): more pops than pushes
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xlocinfo.h(11): warning C4079: unexpected token 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xlocinfo.h(11): warning C4081: expected 'newline'; found ')'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xlocinfo.h(12): warning C4081: expected 'constant'; found 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xlocinfo.h(13): warning C4081: expected ')'; found 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xlocinfo.h(184): warning C4161: #pragma pack(pop...): more pops than pushes
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xlocinfo(10): warning C4079: unexpected token 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xlocinfo(10): warning C4081: expected 'newline'; found ')'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xlocinfo(11): warning C4081: expected 'constant'; found 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xlocinfo(12): warning C4081: expected ')'; found 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xlocinfo(302): warning C4161: #pragma pack(pop...): more pops than pushes
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\memory(11): warning C4079: unexpected token 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\memory(11): warning C4081: expected 'newline'; found ')'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\memory(12): warning C4081: expected 'constant'; found 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\memory(13): warning C4081: expected ')'; found 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\memory(3064): warning C4161: #pragma pack(pop...): more pops than pushes
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xfacet(8): warning C4079: unexpected token 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xfacet(8): warning C4081: expected 'newline'; found ')'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xfacet(9): warning C4081: expected 'constant'; found 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xfacet(10): warning C4081: expected ')'; found 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xfacet(46): warning C4161: #pragma pack(pop...): more pops than pushes
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xlocale(15): warning C4079: unexpected token 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xlocale(15): warning C4081: expected 'newline'; found ')'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xlocale(16): warning C4081: expected 'constant'; found 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xlocale(17): warning C4081: expected ')'; found 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xlocale(3262): warning C4161: #pragma pack(pop...): more pops than pushes
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xcall_once.h(9): warning C4079: unexpected token 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xcall_once.h(9): warning C4081: expected 'newline'; found ')'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xcall_once.h(10): warning C4081: expected 'constant'; found 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xcall_once.h(11): warning C4081: expected ')'; found 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xcall_once.h(40): warning C4161: #pragma pack(pop...): more pops than pushes
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xerrc.h(9): warning C4079: unexpected token 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xerrc.h(9): warning C4081: expected 'newline'; found ')'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xerrc.h(10): warning C4081: expected 'constant'; found 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xerrc.h(11): warning C4081: expected ')'; found 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xerrc.h(105): warning C4161: #pragma pack(pop...): more pops than pushes
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\system_error(12): warning C4079: unexpected token 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\system_error(12): warning C4081: expected 'newline'; found ')'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\system_error(13): warning C4081: expected 'constant'; found 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\system_error(14): warning C4081: expected ')'; found 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\system_error(639): warning C4161: #pragma pack(pop...): more pops than pushes
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xiosbase(12): warning C4079: unexpected token 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xiosbase(12): warning C4081: expected 'newline'; found ')'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xiosbase(13): warning C4081: expected 'constant'; found 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xiosbase(14): warning C4081: expected ')'; found 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xiosbase(662): warning C4161: #pragma pack(pop...): more pops than pushes
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\streambuf(8): warning C4079: unexpected token 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\streambuf(8): warning C4081: expected 'newline'; found ')'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\streambuf(9): warning C4081: expected 'constant'; found 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\streambuf(10): warning C4081: expected ')'; found 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\streambuf(717): warning C4161: #pragma pack(pop...): more pops than pushes
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xlocnum(12): warning C4079: unexpected token 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xlocnum(12): warning C4081: expected 'newline'; found ')'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xlocnum(13): warning C4081: expected 'constant'; found 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xlocnum(14): warning C4081: expected ')'; found 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xlocnum(1877): warning C4161: #pragma pack(pop...): more pops than pushes
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\ios(8): warning C4079: unexpected token 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\ios(8): warning C4081: expected 'newline'; found ')'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\ios(9): warning C4081: expected 'constant'; found 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\ios(10): warning C4081: expected ')'; found 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\ios(361): warning C4161: #pragma pack(pop...): more pops than pushes
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\ostream(8): warning C4079: unexpected token 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\ostream(8): warning C4081: expected 'newline'; found ')'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\ostream(9): warning C4081: expected 'constant'; found 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\ostream(10): warning C4081: expected ')'; found 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\ostream(35): warning C4081: expected ')'; found 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\ostream(132): warning C4081: expected ')'; found 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\ostream(1057): warning C4161: #pragma pack(pop...): more pops than pushes
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\istream(8): warning C4079: unexpected token 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\istream(8): warning C4081: expected 'newline'; found ')'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\istream(9): warning C4081: expected 'constant'; found 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\istream(10): warning C4081: expected ')'; found 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\istream(16): warning C4081: expected ')'; found 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\istream(1010): warning C4161: #pragma pack(pop...): more pops than pushes
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\fstream(8): warning C4079: unexpected token 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\fstream(8): warning C4081: expected 'newline'; found ')'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\fstream(9): warning C4081: expected 'constant'; found 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\fstream(10): warning C4081: expected ')'; found 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\fstream(572): warning C4081: expected ')'; found 'string'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\fstream(1547): warning C4161: #pragma pack(pop...): more pops than pushes
+d:\prg\opengl\opengl\oknogl.cpp(781): warning C4566: character represented by universal-character-name '\u0119' cannot be represented in the current code page (1251)
+d:\prg\opengl\opengl\oknogl.cpp(860): fatal error C1004: unexpected end-of-file found
+  Generating Code...
